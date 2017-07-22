@@ -1,6 +1,8 @@
 # uguu
 Uguu.
 
+![Uguu\~\~\~](https://github.com/Ruin0x11/uguu/blob/master/uguu.jpg?raw=true)
+
 ## Uguu...
 ```
 cargo build --release
